@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\ref\Area de um circulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\bin\Debug\net5.0\Area de um circulo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\ref\Area de um circulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\Area de um circulo\obj\Debug\net5.0\Area de um circulo.genruntimeconfig.cache
